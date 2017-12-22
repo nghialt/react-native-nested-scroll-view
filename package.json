@@ -1,6 +1,6 @@
 {
   "name": "react-native-nested-scroll-view_nghialt",
-  "version": "6.1.0",
+  "version": "6.2.0",
   "description": "React Native ScrollView replacement with NestedScrollView",
   "main": "index.js",
   "keywords": [

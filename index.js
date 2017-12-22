@@ -5,3 +5,8 @@ export default Platform.select({
   ios: ScrollView,
   android: NestedScrollView
 })
+
+export const CustomScrollView = Platform.select({
+  ios: ScrollView,
+  android: NestedScrollView
+})
